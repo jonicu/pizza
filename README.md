@@ -1,2 +1,2 @@
 # pizza
-intro to github class
+intro to github
